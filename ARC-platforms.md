@@ -11,7 +11,6 @@ roundups; verify against the vendor before paying.
 | BookSirens | $10/book + $2 per reader they find, or $100/yr unlimited (2 pen names) | Own invited readers are free. 3-month promotion window. Claims ~75% review rate. |
 | Hidden Gems | $20 covers first 10 readers, ~$3/reader after | Sources conflict on a 50-reader minimum — **confirm before committing**. Claims >80% review rate. |
 | Voracious Readers | Free ARCs to readers in exchange for reviews | Author-side cost not yet checked. |
-| NetGalley | $450–$849 per 6-month listing | Reaches librarians, booksellers, trade reviewers. Expensive for indie review-count purposes. |
 | BookTasters | $150–$1,200 (fiction), $225–$1,200 (non-fiction) | See caveat below. |
 
 ## Dropped
@@ -21,6 +20,10 @@ roundups; verify against the vendor before paying.
   volume. Dropped.
 - **BookRoar** — credit-based reciprocal review exchange (authors review each other).
   Exchanged reviews violate Amazon's terms and are subject to removal. Dropped.
+- **NetGalley** — $575 for a 6-month pay-per-title listing (or ~$6,000/yr subscription;
+  $199 for 3 months via IBPA membership). Terms are not published: `/request_terms` is a
+  contact form requiring company type and genres before they respond. Reach is librarians,
+  booksellers and trade reviewers rather than indie review volume. Dropped.
 - **BookSweeps** — giveaway/newsletter list-building, not ARC review distribution.
   Different funnel: optimizes for email addresses, not reviews. Not an ARC service.
 
