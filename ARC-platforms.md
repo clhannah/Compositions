@@ -9,7 +9,7 @@ roundups; verify against the vendor before paying.
 |---|---|---|
 | Booksprout | $9 / 1 book, $19 / 3 books, $29 unlimited | Prices per author; vendor page blocked automated fetch, figures unverified. Strong in romance and fantasy. |
 | BookSirens | $10/book + $2 per reader they find, or $100/yr unlimited (2 pen names) | Own invited readers are free. 3-month promotion window. Claims ~75% review rate. |
-| Hidden Gems | $20 covers first 10 readers, ~$3/reader after | Sources conflict on a 50-reader minimum — **confirm before committing**. Claims >80% review rate. |
+| Hidden Gems | $20 covers first 10 readers, $3/reader after; **50-reader minimum order** | Confirmed: minimum is 50, but if fewer readers sign up than ordered you are billed only for actual signups, even below the minimum. Ladder: 10=$20, 15=$35, 25=$65, 50=$140. Claims >80% review rate. |
 | Voracious Readers | Free ARCs to readers in exchange for reviews | Author-side cost not yet checked. |
 
 ## Dropped
@@ -42,6 +42,18 @@ The goal is Amazon reviews, which constrains platform choice:
   and filters unverified-purchase reviews. Expect attrition between reviews written and
   reviews visible on the product page.
 
+## Cost per review (estimated)
+
+| Platform | Campaign cost | Est. reviews | Per review |
+|---|---|---|---|
+| Hidden Gems | $140 (50 readers) | ~40 at >80% | ~$3.50 |
+| BookSirens | $10 + $2/reader | ~75% of readers | ~$2.67 + book fee |
+| BookSirens (annual) | $100/yr unlimited | — | cheaper beyond ~3 campaigns/yr |
+| Booksprout | $19–$29 flat | depends on fill rate | lowest if the ARC fills |
+
+Hidden Gems costs the most per review but is the most Amazon-targeted. Booksprout is
+cheapest only if their reader pool wants the genre.
+
 ## Selection reasoning
 
 Booksprout, BookSirens, and Hidden Gems draw from overlapping reviewer pools
@@ -56,5 +68,4 @@ list is retained afterward.
 ## Open
 
 - Confirm Booksprout tier prices and billing period (monthly vs yearly) on the vendor page.
-- Confirm whether Hidden Gems enforces a 50-reader minimum.
 - Check Voracious Readers author-side pricing.
