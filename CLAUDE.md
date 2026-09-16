@@ -48,7 +48,5 @@ doing writing or copy-editing work.
 
 ## Open
 
-- ARC platform decisions (Booksprout, BookSirens, and others discussed in an
-  earlier session) are **not recorded anywhere reachable**. Prior session
-  transcripts are not readable from here and `ARCs.docx` is empty. Capture those
-  notes here or in `ARCs.docx` before building on them.
+- Candidate ARC platforms, pricing, and selection reasoning live in `ARC-platforms.md`.
+- `ARCs.docx` in Dropbox is still empty.
