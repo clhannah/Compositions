@@ -31,6 +31,21 @@ roundups; verify against the vendor before paying.
 - **BookSweeps** — giveaway/newsletter list-building, not ARC review distribution.
   Different funnel: optimizes for email addresses, not reviews. Not an ARC service.
 
+## Genre fit
+
+Author writes **fantasy and romance**.
+
+Hidden Gems' reader pool is romance-heavy. Their own materials note that romance titles
+attract higher sign-ups, while most science fiction and thriller/suspense titles attract
+only 5–15 readers. For romance and romantasy this is an advantage, not a limitation —
+Hidden Gems is a genuine volume source here and can carry a launch.
+
+Genre categories offered: Romance, Erotica, Mystery, Science Fiction, Fantasy,
+Thriller/Suspense, Horror, Humor/Satire, Young Adult, Self-Help, General Non-Fiction,
+Faith/Spirituality, General Fiction, Cookbooks, Women's Literature, Children's Books.
+Sub-genre selection happens during booking. No per-genre pool sizes are published, so
+straight (non-romantic) fantasy may draw less than romance.
+
 ## Amazon review mechanics
 
 The goal is Amazon reviews, which constrains platform choice:
