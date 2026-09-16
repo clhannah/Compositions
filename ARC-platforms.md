@@ -10,7 +10,7 @@ roundups; verify against the vendor before paying.
 | Booksprout | $9 / 1 book, $19 / 3 books, $29 unlimited | Prices per author; vendor page blocked automated fetch, figures unverified. Strong in romance and fantasy. |
 | BookSirens | $10/book + $2 per reader they find, or $100/yr unlimited (2 pen names) | Own invited readers are free. 3-month promotion window. Claims ~75% review rate. |
 | Hidden Gems | $20 covers first 10 readers, $3/reader after; **50-reader minimum order** | Confirmed: minimum is 50, but if fewer readers sign up than ordered you are billed only for actual signups, even below the minimum. Ladder: 10=$20, 15=$35, 25=$65, 50=$140. Claims >80% review rate. |
-| Voracious Readers | Free ARCs to readers in exchange for reviews | Author-side cost not yet checked. |
+| Voracious Readers | Free 20-reader intro giveaway (one per author), then ~$20–30/mo entry; Evergreen Gold $40/mo, Platinum $150/mo | Continuous "Evergreen" model. If few readers come in a month you pay $0.75/reader rather than the full monthly fee. |
 
 ## Dropped
 
@@ -30,6 +30,24 @@ roundups; verify against the vendor before paying.
   service can legitimately guarantee review counts. Dropped.
 - **BookSweeps** — giveaway/newsletter list-building, not ARC review distribution.
   Different funnel: optimizes for email addresses, not reviews. Not an ARC service.
+
+## Delivery model
+
+**Recurring / duration-based** — ongoing presence, reviews accumulate over time:
+
+- **BookSirens** — 3-month promotion window per book on the Promote Plan; $100/yr
+  subscription on the Author Plan.
+- **Voracious Readers** — explicitly continuous ("Evergreen"), billed monthly.
+- **Booksprout** — subscription tiers, though each ARC campaign has its own deadline.
+
+**One-time batch** — concentrated burst, then over:
+
+- **Hidden Gems** — order N readers, they mail their list, sign-ups close, done.
+- **BetaFide** — scheduled slot, booked months ahead.
+
+These are complements, not substitutes. Batch campaigns concentrate reviews at launch,
+which is what moves the product page in week one. Recurring platforms build the tail
+afterward.
 
 ## Genre fit
 
@@ -95,4 +113,3 @@ list is retained afterward.
 ## Open
 
 - Confirm Booksprout tier prices and billing period (monthly vs yearly) on the vendor page.
-- Check Voracious Readers author-side pricing.
