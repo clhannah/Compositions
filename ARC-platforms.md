@@ -11,7 +11,6 @@ roundups; verify against the vendor before paying.
 | BookSirens | $10/book + $2 per reader they find, or $100/yr unlimited (2 pen names) | Own invited readers are free. 3-month promotion window. Claims ~75% review rate. |
 | Hidden Gems | $20 covers first 10 readers, ~$3/reader after | Sources conflict on a 50-reader minimum — **confirm before committing**. Claims >80% review rate. |
 | Voracious Readers | Free ARCs to readers in exchange for reviews | Author-side cost not yet checked. |
-| BookTasters | $150–$1,200 (fiction), $225–$1,200 (non-fiction) | See caveat below. |
 
 ## Dropped
 
@@ -24,15 +23,24 @@ roundups; verify against the vendor before paying.
   $199 for 3 months via IBPA membership). Terms are not published: `/request_terms` is a
   contact form requiring company type and genres before they respond. Reach is librarians,
   booksellers and trade reviewers rather than indie review volume. Dropped.
+- **BookTasters** — $150–$1,200 (fiction), $225–$1,200 (non-fiction). Base offering is
+  Goodreads-focused; Amazon posting is a higher-tier option. **Amazon reviews are the
+  requirement here**, so a Goodreads-default service at that price does not fit. Also
+  sells "lifetime packages with guaranteed reviews" financed via Klarna/Affirm — no
+  service can legitimately guarantee review counts. Dropped.
 - **BookSweeps** — giveaway/newsletter list-building, not ARC review distribution.
   Different funnel: optimizes for email addresses, not reviews. Not an ARC service.
 
-## Caveat on BookTasters
+## Amazon review mechanics
 
-Sells "lifetime packages with guaranteed reviews" and finances them via
-Klarna/Affirm/Afterpay. No service can legitimately guarantee review counts —
-reviewers decide independently. Treat the guarantee as marketing and price the
-package as an uncertain outcome.
+The goal is Amazon reviews, which constrains platform choice:
+
+- **Hidden Gems** is explicitly built around Amazon review generation.
+- **Booksprout** and **BookSirens** let readers post to Amazon and Goodreads, but
+  neither controls whether Amazon retains the review.
+- Amazon requires a $50 spend history on the reviewer's account before they can post,
+  and filters unverified-purchase reviews. Expect attrition between reviews written and
+  reviews visible on the product page.
 
 ## Selection reasoning
 
