@@ -42,17 +42,25 @@ The goal is Amazon reviews, which constrains platform choice:
   and filters unverified-purchase reviews. Expect attrition between reviews written and
   reviews visible on the product page.
 
-## Cost per review (estimated)
+## What you actually buy
 
-| Platform | Campaign cost | Est. reviews | Per review |
+**You are billed for readers, not reviews.** No platform here commits to a review
+count, and none refunds the gap between readers who signed up and reviews that appear.
+Published review rates are historical averages used as marketing, not guarantees.
+
+Hidden Gems states this explicitly: they do not guarantee how many readers will leave a
+review, and will not refund the difference between readers and reviews.
+
+| Platform | Billable unit | Firm cost | Review rate claimed (not guaranteed) |
 |---|---|---|---|
-| Hidden Gems | $140 (50 readers) | ~40 at >80% | ~$3.50 |
-| BookSirens | $10 + $2/reader | ~75% of readers | ~$2.67 + book fee |
-| BookSirens (annual) | $100/yr unlimited | — | cheaper beyond ~3 campaigns/yr |
-| Booksprout | $19–$29 flat | depends on fill rate | lowest if the ARC fills |
+| Hidden Gems | reader | $140 for 50 readers | >80% |
+| BookSirens | reader they find | $10/book + $2/reader | ~75% |
+| BookSirens (annual) | flat | $100/yr unlimited | ~75% |
+| Booksprout | flat | $19–$29 | not stated |
 
-Hidden Gems costs the most per review but is the most Amazon-targeted. Booksprout is
-cheapest only if their reader pool wants the genre.
+If the claimed rates hold, Hidden Gems lands near $3.50/review and BookSirens near
+$2.67 plus the book fee — but treat those as projections and budget against the firm
+cost. Booksprout's flat fee caps downside; its risk is fill rate rather than price.
 
 ## Selection reasoning
 
