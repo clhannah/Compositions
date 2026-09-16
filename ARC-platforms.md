@@ -58,6 +58,10 @@ review, and will not refund the difference between readers and reviews.
 | BookSirens (annual) | flat | $100/yr unlimited | ~75% |
 | Booksprout | flat | $19–$29 | not stated |
 
+**Decision:** the per-reader model is accepted. At 50 readers for $140, even a weak
+40% conversion is 20 reviews at $7/review, which is acceptable for launch social proof.
+The downside case is mild enough that Hidden Gems does not need to be sequenced last.
+
 If the claimed rates hold, Hidden Gems lands near $3.50/review and BookSirens near
 $2.67 plus the book fee — but treat those as projections and budget against the firm
 cost. Booksprout's flat fee caps downside; its risk is fill rate rather than price.
